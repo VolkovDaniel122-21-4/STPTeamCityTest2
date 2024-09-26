@@ -1,0 +1,14 @@
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/bin/Debug/net8.0/MyTeamCityProject3
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/bin/Debug/net8.0/MyTeamCityProject3.deps.json
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/bin/Debug/net8.0/MyTeamCityProject3.runtimeconfig.json
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/bin/Debug/net8.0/MyTeamCityProject3.dll
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/bin/Debug/net8.0/MyTeamCityProject3.pdb
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/obj/Debug/net8.0/MyTeamCityProject3.GeneratedMSBuildEditorConfig.editorconfig
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/obj/Debug/net8.0/MyTeamCityProject3.AssemblyInfoInputs.cache
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/obj/Debug/net8.0/MyTeamCityProject3.AssemblyInfo.cs
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/obj/Debug/net8.0/MyTeamCityProject3.csproj.CoreCompileInputs.cache
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/obj/Debug/net8.0/MyTeamCityProject3.dll
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/obj/Debug/net8.0/refint/MyTeamCityProject3.dll
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/obj/Debug/net8.0/MyTeamCityProject3.pdb
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/obj/Debug/net8.0/MyTeamCityProject3.genruntimeconfig.cache
+/home/pilot02/MyTeamCityProject3/MyTeamCityProject3/obj/Debug/net8.0/ref/MyTeamCityProject3.dll
