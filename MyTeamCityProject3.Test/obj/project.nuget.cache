@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "roRC9x7S3QM=",
+  "dgSpecHash": "L/XqN+4Hovo=",
   "success": true,
-  "projectFilePath": "/home/pilot02/MyTeamCityProject3/MyTeamCityProject3.Test/MyTeamCityProject3.Test.csproj",
+  "projectFilePath": "/home/pilot02/MyTeamCityProject4/MyTeamCityProject3.Test/MyTeamCityProject3.Test.csproj",
   "expectedPackageFiles": [
     "/home/pilot02/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/home/pilot02/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",

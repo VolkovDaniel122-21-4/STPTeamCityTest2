@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pilot02/MyTeamCityProject3/MyTeamCityProject3.Test/MyTeamCityProject3.Test.csproj": {}
+    "/home/pilot02/MyTeamCityProject4/MyTeamCityProject3.Test/MyTeamCityProject3.Test.csproj": {}
   },
   "projects": {
-    "/home/pilot02/MyTeamCityProject3/MyTeamCityProject3.Test/MyTeamCityProject3.Test.csproj": {
+    "/home/pilot02/MyTeamCityProject4/MyTeamCityProject3.Test/MyTeamCityProject3.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pilot02/MyTeamCityProject3/MyTeamCityProject3.Test/MyTeamCityProject3.Test.csproj",
+        "projectUniqueName": "/home/pilot02/MyTeamCityProject4/MyTeamCityProject3.Test/MyTeamCityProject3.Test.csproj",
         "projectName": "MyTeamCityProject3.Test",
-        "projectPath": "/home/pilot02/MyTeamCityProject3/MyTeamCityProject3.Test/MyTeamCityProject3.Test.csproj",
+        "projectPath": "/home/pilot02/MyTeamCityProject4/MyTeamCityProject3.Test/MyTeamCityProject3.Test.csproj",
         "packagesPath": "/home/pilot02/.nuget/packages/",
-        "outputPath": "/home/pilot02/MyTeamCityProject3/MyTeamCityProject3.Test/obj/",
+        "outputPath": "/home/pilot02/MyTeamCityProject4/MyTeamCityProject3.Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pilot02/.nuget/NuGet/NuGet.Config"
